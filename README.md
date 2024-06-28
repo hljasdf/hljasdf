@@ -1,11 +1,11 @@
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=张清流是大帅哥&fontSize=90&fontAlign=50&fontAlignY=30&desc=张清流好帅！😊😊😊&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=AAA&fontSize=90&fontAlign=50&fontAlignY=30&desc=BBB&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+张清流's+GitHub+profile+page!;I+am+super+obsessed+with+programming!" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+黄凌杰's+GitHub+profile+page!;I+am+super+obsessed+with+programming!" />
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@
 
 <!-- https://github.com/badges/shields -->
 <p align="center">
-<a href="https://github.com/ZhangQL2824"><img src="https://img.shields.io/badge/GitHub-张清流-blue?logo=github" /></a>
+<a href="https://github.com/hljasdf"><img src="https://img.shields.io/badge/GitHub-黄凌杰-blue?logo=github" /></a>
 <img src="https://img.shields.io/badge/QQ-3024666853-green?logo=tencentqq" />
 
 <img src="[https://img.shields.io/badge/QQ-3024666853-green?logo=tencentqq](https://img.shields.io/badge/runningmonkey0-a?logo=wechat&labelColor=white&color=gray)" />
@@ -39,7 +39,7 @@
 
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=张清流是大帅哥&fontSize=90&fontAlign=50&fontAlignY=70&desc=张清流好帅💖😊&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=大学牲&fontSize=90&fontAlign=50&fontAlignY=70&desc=阿巴阿巴&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
 </p>
 
 <picture>
